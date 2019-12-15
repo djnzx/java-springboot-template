@@ -1,5 +1,6 @@
-package app;
+package app.service;
 
+import app.service.Calc;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
